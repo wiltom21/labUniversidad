@@ -1,0 +1,1 @@
+#almacenamos variables globales para mandar a llamarlas
